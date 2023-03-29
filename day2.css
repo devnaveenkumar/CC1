@@ -1,0 +1,37 @@
+img{
+    width: 30%;
+    position: relative;
+    right: 20%;
+
+}
+a{
+    margin: 10px;
+    position: relative;
+    bottom: 90px;
+}
+.Header{
+    position: absolute;
+    top: 20px;
+    left: 10%;
+    border: solid black;
+    width: 80%;
+}
+.section{
+    display: flex;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 80%;
+}
+.Footer{
+    position: absolute;
+    top: 100%;
+    left: 40%;
+}
+
+.fp{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+}
+
